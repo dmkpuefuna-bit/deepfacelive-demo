@@ -37,8 +37,7 @@ cd deepfacelive-demo
 pip install -r requirements.txt
 python app.py
 
-## ![Daniel Logo](assets/logo.png)
-  👨‍💻 Author
+##👨‍💻 Author
 **Daniel Chibuike Mkpuefuna**  
 Python Developer | Web Designer | AI Enthusiast  
 
